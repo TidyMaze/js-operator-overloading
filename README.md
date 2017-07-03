@@ -1,6 +1,6 @@
 # JavaScript Operator Overloading
 
-This is a demo show case how can we make use of `valudOf` to implement operator overloading in JavaScript.
+This is a demo show case how can we make use of `valueOf` to implement operator overloading in JavaScript.
 
 ## vector.js
 
